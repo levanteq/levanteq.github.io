@@ -1,1 +1,3 @@
-# levanteq.github.io
+# Levanteq's AI Playbook
+
+> An awesome project.
