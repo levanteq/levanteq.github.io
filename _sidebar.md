@@ -2,6 +2,13 @@
 
 * [Home](/)
 * [EEEE Guide](/README "The greatest guide in the world")
+  * [Engage](/README/engage)
+  * [Evaluate](/README/evaluate)
+  * [Execute](/README/execute)
+  * [Enable](/README/enable)
+
+* [Delivery Teams](/delivery)
+* [Contact Us](/contact)
 
 1.Engage
   1. Use Case Feasibility Scoring
