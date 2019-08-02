@@ -6,12 +6,12 @@
 
 > Artificial Intelligence Playbook.
 
-- 🚀 Node & Browser Support
-- ⚡️️ Simple, Powerful, & Intuitive API
-- 💎 First Class Mocha & QUnit Test Helpers
-- 🔥 Intercept, Pass-Through, and Attach Events
-- 📼 Record to Disk or Local Storage
-- ⏱ Slow Down or Speed Up Time
+- 🚀 Engage: Score The Feasibility Of The Project
+- ⚡️️ Evaluate: Quick Proof Of Accuracy
+- 💎 Execute: Use Full Data Capability (Accuracy+), Add A Feedback Loop
+- 🔥 Enable: Add Infrastructure, Monitoring, UI/Analytics, Logging, Process Managment
+- 📼 Benefits: Cost Savings, Flexibility, Scalability, Production Readiness
+- ⏱ Create 'A' Team: Build Ideal Delivery Pods
 
 <div class="buttons">
   <a href="https://github.com/levanteq" target="_blank"><span>GitHub</span></a>
