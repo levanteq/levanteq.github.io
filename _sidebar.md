@@ -1,7 +1,7 @@
                     🚀AI Playbook 🚀
 
-* [EEEE Strategy](/)
-* [Guide](guide.md "The greatest guide in the world")
+* [Home](/)
+* [EEEE Guide](/README "The greatest guide in the world")
 
 1.Engage
   1. Use Case Feasibility Scoring
