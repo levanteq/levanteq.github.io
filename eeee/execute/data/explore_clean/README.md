@@ -18,10 +18,10 @@ Competitive Edge
 HOW
 ### Tools to consider
 Open Source:
-    1. [OpenRefine: Google](http://openrefine.org/documentation.html)
+    1. [OpenRefine: Google] (http://openrefine.org/documentation.html)
 
 Priced:
-    1. [Trifacta]()
+    1. [Trifacta] ()
 
 
 ### Steps to clean data.
