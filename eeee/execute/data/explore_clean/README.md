@@ -57,5 +57,3 @@ Priced:
 1. Prepare Data for Machine Processing
 
 1. Replace Cell Values
-
-https://cloud.google.com/dataprep/docs/html/Cleanse-Tasks_57344582
